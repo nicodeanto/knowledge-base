@@ -1,0 +1,19 @@
+# System Files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Temporary & Editor Files
+.stackedit-data/
+.notion/
+.idea/
+.vscode/
+
+# Odoo Specific (jika ada folder log atau sesi)
+*.log
+*.pyc
+__pycache__/
+
+# Hidden Configuration
+.env
